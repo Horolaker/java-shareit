@@ -69,7 +69,7 @@ public class UserController {
     /**
      * обработка DELETE-запроса
      *
-     * @param id id пользователя
+     * @param id пользователя
      * @return подтверждение удаления
      */
     @DeleteMapping(value = "/{id}")
